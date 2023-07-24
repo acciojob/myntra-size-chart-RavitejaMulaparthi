@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+table{
+	border:1px solid black;
+	border-collapse: collapse;
+}
+thead th{
+	border:1px solid black;
+}
+tbody td{
+	border:1px solid black;
